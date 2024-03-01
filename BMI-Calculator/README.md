@@ -1,3 +1,5 @@
 # BMI Calculator
 
-<img src="https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/e18d13a8-d3b1-4d0b-8798-952aac98a8f4" width="932" height="447">
+![image](https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/86ae5187-c024-4eaa-88e3-d96a79a93888)
+
+<img src="https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/86ae5187-c024-4eaa-88e3-d96a79a93888" width="1232" height="747">
