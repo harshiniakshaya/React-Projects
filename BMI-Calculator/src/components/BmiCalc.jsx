@@ -10,8 +10,8 @@ export const BmiCalc = () => {
 
     const calculateBmi = () =>{
         //regular expression
-        const isValidHeight = /^\d*\.?\d{0,2}$/.test(height);
-        const isValidWeight = /^\d*\.?\d{0,2}$/.test(weight);
+        const isValidHeight = /^\d+$/.test(height);
+        const isValidWeight = /^\d+$/.test(weight);
         if(isValidHeight & isValidWeight){
             setErrorMsg(false);
             const heightm = height/100;
