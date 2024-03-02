@@ -1,8 +1,9 @@
-# React + Vite
+# BMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/86ae5187-c024-4eaa-88e3-d96a79a93888)
 
-Currently, two official plugins are available:
+![image](https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/488108ca-cd19-4067-ae5b-060ca01764ff)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/474b5abe-ec33-4c0c-9611-5f25f1dd57b8)
+
+
