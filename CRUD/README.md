@@ -6,8 +6,8 @@ https://github.com/harshiniakshaya/React-Mini-Projects/assets/149646981/f24b99d4
 
 #### How to run?
 - Open client and server folders integrated terminals seperately
-- in client integrated terminal --> run npm run dev
-- in server integrated terminal --> run npm start
+- In client integrated terminal --> run npm run dev
+- In server integrated terminal --> run npm start
 - The CRUD Application can be accessed from http://localhost:5173/
 
 
