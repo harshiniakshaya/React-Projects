@@ -1,0 +1,10 @@
+# Ignore node_modules (dependencies folder)
+node_modules/
+
+# Ignore build output
+build/
+
+# Ignore logs and other generated files
+*.log
+*.pid
+*.lock

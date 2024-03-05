@@ -1,0 +1,19 @@
+create a folder CRUD
+BACKEND:
+md server (create or a folder called server)
+cd server
+
+npm init -y
+npm i express cors 
+npm i nodemon -D
+
+create index.js inside server
+inside package.json -> inside scripts -> "start": "nodemon index.js"
+code then,
+npm start
+
+FRONTEND:
+create npm vite@latest
+npm i axios
+
+in App.jsx --> import axios from "axios";
